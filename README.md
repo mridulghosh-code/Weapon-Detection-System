@@ -15,7 +15,7 @@ Training: 100 epochs, batch size of 32; optimized using Adam optimizer and data 
 Evaluation: Achieved high accuracy and low false-positive rate on the test dataset
 Deployment: Tested on Google Colab and capable of integration with edge devices or cloud APIs
 
-Outcome:
+# Outcome:
 Successfully demonstrated real-time detection of concealed and visible weapons
 Reduced detection latency while maintaining precision and recall balance
 Potential integration into existing smart surveillance systems
