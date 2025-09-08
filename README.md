@@ -19,3 +19,5 @@ The Weapon Detection System is a real-time intelligent surveillance solution des
 1. Successfully demonstrated real-time detection of concealed and visible weapons
 2. Reduced detection latency while maintaining precision and recall balance
 3. Potential integration into existing smart surveillance systems
+
+# CODE FILE WILL BE UPDATED SOON!!!
